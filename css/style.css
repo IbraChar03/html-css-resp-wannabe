@@ -175,14 +175,10 @@ img {
     ul{
         margin-top: 100px;
     }
-    .steps{
-        display: block;
-        
+    .col.col-left{
+        display: flex;
+        justify-content: center;
     }
-    .col .col-left{
-        margin-left: 100px;
-    }
-   
 
 
     
